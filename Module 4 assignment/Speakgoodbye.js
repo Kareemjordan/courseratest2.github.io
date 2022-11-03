@@ -5,5 +5,5 @@
       console.log(speakWord + " " + name);
     }
   };
-  window.byeSpeaker = byespeaker;
+  window.byeSpeaker = byeSpeaker;
 })(window);
